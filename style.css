@@ -1,0 +1,25 @@
+.blog {
+	width: 800px;
+	background-color: black;
+	margin: 0px auto 100px;
+	padding: 50px 100px;
+	border-left: 20px solid red;
+
+}
+.blog img {
+	width: 800px;
+	height: 600px;
+}
+.blog h1 {
+	font-family: tahoma;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	text-transform: uppercase;
+}
+.blog p {
+	color: gold;
+	text-align: justify;
+	font-size: 16px;
+	font-family: tahoma;
+}
